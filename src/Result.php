@@ -4,7 +4,7 @@
  * Time: 下午2:16
  */
 
-namespace App\Core\Result;
+namespace Iinux\Testcomposer;
 
 use ArrayAccess;
 use Illuminate\Contracts\Support\Arrayable;
