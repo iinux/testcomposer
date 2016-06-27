@@ -8,7 +8,7 @@
             "email": "iinux@qq.com"
         }
     ],
-    "authload": {
+    "autoload": {
 	    "psr-4": {"Iinux\\Testcomposer":"src"}
     },
     "require": {}
