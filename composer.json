@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-	    "psr-4": {"Iinux\\Testcomposer":"src"}
+	    "psr-4": {"Iinux\\Testcomposer\\":"src"}
     },
     "require": {}
 }
