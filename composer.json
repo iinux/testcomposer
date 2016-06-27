@@ -1,0 +1,12 @@
+{
+    "name": "iinux/testcomposer",
+    "description": "this is a test composer for composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iinux",
+            "email": "iinux@qq.com"
+        }
+    ],
+    "require": {}
+}
